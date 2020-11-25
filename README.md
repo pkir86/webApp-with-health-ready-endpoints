@@ -1,7 +1,10 @@
 # webApp-with-health-ready-endpoints
 
-
-You need to install postgres locally on your workstation with a database named webServer
+Prerequisitives
+================
+On your workstation:
+You need to have python3 installed with pip package.
+You need to have postgres installed with a database named webServer
 with user postgresql and password "12345".
 
 Go to the root directory of the project
